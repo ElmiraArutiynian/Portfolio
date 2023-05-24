@@ -31,5 +31,5 @@ for(var i = 0; i < canvas.width; i += 20) {
 }
 
 ctx.font = '30px Arial';
-ctx.fillStyle = 'black';
-ctx.fillText('First cartoon project', 200, 50);
+ctx.fillStyle = 'blue';
+ctx.fillText('First cartoon project made by Elmira!', 200, 50);
